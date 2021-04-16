@@ -1,16 +1,13 @@
-### Hi there 👋
+I'm a biology professor at the University of Washington working to improve capacity to predict ecological and evolutionary responses to climate change.
 
-<!--
-**lbuckley/lbuckley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Research Question
+How does biology (morphology, physiology, and life history) determine an organism’s ecological and evolutionary response to environmental change?
 
-Here are some ideas to get you started:
+# Approaches
+* *Ecological and evolutionary forecasting and hindcasting*: We are using historic data on species’ traits from museum specimens and performance from lab and field studies to assess phenotypic shifts and their influence on species’ responses to recent climate change.
+* *Mechanistic models of species’ ranges in changing environments*: We develop mechanistic models that scale from individual performance and energetics to population and community dynamics and predict abundance and distribution patterns.
+* *Physiological, energetic, and ecological constraints on abundance, distribution, and diversity*: Ecoinformatics enables us to ask how the evolution of physiological traits constrains broad-scale patterns of abundance, distribution, and diversity.
+* *Outreach and Education*: We develop computational tools to translate physical climate changes into impacts on organisms. The tools enable assessing the ecological consequences of given warming. We also teach courses on physiological and global change ecology and evolution and participate in outreach activities aimed at disseminating information about the ecological impacts of climate change.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Study systems
+Colias butterflies around Gothic, CO and grasshopper communities around Boulder, CO.
