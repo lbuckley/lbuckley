@@ -1,4 +1,4 @@
-I'm a biology professor at the University of Washington working to improve capacity to predict ecological and evolutionary responses to climate change.
+I'm a biology professor at the University of Washington working to improve capacity to predict ecological and evolutionary responses to climate change. You can learn more about my research group [here](https://github.com/HuckleyLab/how_we_work). Our research is described on our [group website](http://faculty.washington.edu/lbuckley/). Our [TrEnCh (Translating Environmental Change) Project](https://www.trenchproject.com/) is a branch of the group focused on building computational and visualization tools to understand how organisms experience climate change. We practice open science, so you can track our progress in our [research group](https://github.com/HuckleyLab) and [TrEnCh Project](https://github.com/trenchproject) GitHub organizations. 
 
 # Research Question
 How does biology (morphology, physiology, and life history) determine an organism’s ecological and evolutionary response to environmental change?
